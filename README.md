@@ -303,3 +303,109 @@ carol = {
 </div>
 
 
+
+
+
+
+
+<!-- # # 🚀 GitHub Profile Setup Guide — carollinaanderson
+
+## Step 1 — Create Your Profile README Repo
+
+1. Go to github.com/new
+2. Repository name: **carollinaanderson** (must match your username exactly)
+3. Check ✅ "Add a README file"
+4. Make it **Public**
+5. Click "Create repository"
+
+---
+
+## Step 2 — Paste the README
+
+1. Open the repo → click the ✏️ edit pencil on README.md
+2. Delete everything
+3. Paste the full contents of the README.md file provided
+4. Click "Commit changes"
+
+---
+
+## Step 3 — Organize Your Repos by Category
+
+Create these **topic labels** on each repo (Settings → Topics):
+
+| Category | Topic tag to add |
+|----------|-----------------|
+| Machine Learning | `machine-learning` `data-science` |
+| Data Engineering | `data-engineering` `etl` `webscraping` |
+| Data Analysis | `data-analysis` `pandas` `jupyter` |
+| Tools & Integrations | `tools` `automation` |
+
+**How to add topics:**
+1. Open any repo
+2. Click the ⚙️ gear icon next to "About"
+3. Add relevant topics
+4. Save changes
+
+---
+
+## Step 4 — Pin Your Best Repos
+
+On your profile page:
+1. Click "Customize your pins"
+2. Pin these 6 repos (recommended):
+   - `ds-points`
+   - `desbravando-pandas`
+   - `data-collect`
+   - `kaggle_intro_to-python`
+   - `notero`
+   - `carollinaanderson`
+
+---
+
+## Step 5 — Update Each Repo's README
+
+For each pinned repo, add this template at the top:
+
+```markdown
+# 📁 repo-name
+
+> One-line description of what this does
+
+![Python](https://img.shields.io/badge/Python-22ff7b?style=flat-square&logo=python&logoColor=000)
+<!-- add relevant badges -->
+
+<!--## 🎯 what is this?
+Brief explanation (2–3 sentences)
+
+## 🛠️ how to run
+```bash
+git clone https://github.com/carollinaanderson/repo-name
+cd repo-name
+pip install -r requirements.txt
+python main.py
+```
+
+## 📊 what I learned
+- Key insight 1
+- Key insight 2
+```
+
+---
+
+## Color Palette Reference
+
+| Color | Hex | Use for |
+|-------|-----|---------|
+| Neon Green | `#22ff7b` | Primary accent, Python, success |
+| Hot Pink | `#ff1de9` | Secondary accent, SQL, labels |
+| Electric Purple | `#8b53fe` | Tertiary accent, AWS, cloud |
+| Neon Yellow | `#d0ff00` | Highlights, ML, attention |
+| Pure Black | `#000000` | Backgrounds |
+| Off Black | `#0a0a0a` | Card backgrounds |
+| White | `#ffffff` | Text |
+
+---
+-->
+
+Built with 💚 by Claude for carollinaanderson
+
